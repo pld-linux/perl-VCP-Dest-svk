@@ -1,5 +1,5 @@
 %include	/usr/lib/rpm/macros.perl
-%define	pnam	VCP-Dest-svk
+%define		pnam	VCP-Dest-svk
 Summary:	svk destination driver
 Summary(pl):	Sterownik celu svk
 Name:		perl-VCP-Dest-svk
