@@ -3,13 +3,13 @@
 Summary:	svk destination driver
 Summary(pl):	Sterownik celu svk
 Name:		perl-VCP-Dest-svk
-Version:	0.20
+Version:	0.24
 Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
-Source0:	http://search.cpan.org/src/CLKAO/VCP-Dest-svk-0.20/svk.pm
-# NoSource0-md5:	3c3fec2f99c75904f6ddf01eb5314dad
+Source0:	http://search.cpan.org/CPAN/authors/id/C/CL/CLKAO/%{pnam}-%{version}.tar.gz	
+# Source0-md5:	834b035fa882516e8db73d64c9b26527
 BuildRequires:	perl-VCP
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
