@@ -8,7 +8,7 @@ Release:	1
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://search.cpan.org/src/CLKAO/VCP-Dest-svk-0.20/svk.pm
-# Source0-md5:	3c3fec2f99c75904f6ddf01eb5314dad
+# NoSource0-md5:	3c3fec2f99c75904f6ddf01eb5314dad
 BuildRequires:	perl-VCP
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
