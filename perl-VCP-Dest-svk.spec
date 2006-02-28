@@ -8,7 +8,7 @@ Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
-Source0:	http://www.cpan.org/modules/by-authors/id/C/CL/CLKAO/%{pnam}-%{version}.tar.gz	
+Source0:	http://www.cpan.org/modules/by-authors/id/C/CL/CLKAO/%{pnam}-%{version}.tar.gz
 # Source0-md5:	c70bb042ddf15d0740bd846e4b45a06e
 BuildRequires:	perl-VCP
 BuildRequires:	perl-devel >= 1:5.8.0
