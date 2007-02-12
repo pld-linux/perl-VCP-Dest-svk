@@ -1,7 +1,7 @@
 %include	/usr/lib/rpm/macros.perl
 %define		pnam	VCP-Dest-svk
 Summary:	svk destination driver
-Summary(pl):	Sterownik celu svk
+Summary(pl.UTF-8):   Sterownik celu svk
 Name:		perl-VCP-Dest-svk
 Version:	0.29
 Release:	1
@@ -20,7 +20,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 svk destination driver.
 
-%description -l pl
+%description -l pl.UTF-8
 Sterownik celu svk.
 
 %prep
